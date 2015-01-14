@@ -1,0 +1,30 @@
+{
+  "name": "nazca",
+  "version": "0.0.0",
+  "description": "A simulation of plate tectonics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g-e-o-f/nazca.git"
+  },
+  "keywords": [
+    "tectonic",
+    "simulation"
+  ],
+  "author": "Will Shown <w@willshown.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g-e-o-f/nazca/issues"
+  },
+  "homepage": "https://github.com/g-e-o-f/nazca",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}

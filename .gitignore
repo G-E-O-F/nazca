@@ -2,6 +2,13 @@
 logs
 *.log
 
+# IDE
+*.iml
+.idea
+
+# Web intermediate build
+www/dist
+
 # Runtime data
 pids
 *.pid
